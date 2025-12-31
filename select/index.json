@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "weeeek",
+  "base_artist": "NEWS",
+  "createdAt": "2025-12-31T08:13:55.702140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "weeeek",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_weeeek_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Weeeek",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/02_Weeeek_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "weeeek (Represent NEWS Mix)",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/03_weeeek_(Represent_NEWS_Mix)_NEWS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "weeeek",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/04_weeeek_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "weeeek",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/05_weeeek_NEWS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "weeeek",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/06_weeeek_NEWS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "weeeek  (WORLDISTA LIVE Version)",
+      "artist": "NEWS",
+      "has_synced": true,
+      "path": "select/07_weeeek_(WORLDISTA_LIVE_Version)_NEWS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "weeeek",
+      "artist": "NEWS",
+      "has_synced": false,
+      "path": "select/pl_01_weeeek_NEWS.txt"
+    }
+  ]
+}
